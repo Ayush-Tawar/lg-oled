@@ -15,7 +15,7 @@ function Footer() {
                 backgroundPosition: 'center',
                 backgroundSize: 'cover',
                 width: "100%",
-                height: "200px"
+                height: "201px"
             }}>
             </Box>
             <Box p="5%" sx={{ background: "#2F333A", color: "white" }}>
